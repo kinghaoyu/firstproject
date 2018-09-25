@@ -11,3 +11,4 @@ second tag commit
 
 first feature_x commit
 second commit feature_x
+third commit feature_x
